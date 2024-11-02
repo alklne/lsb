@@ -1,6 +1,6 @@
 [
   {
     "name": "example.lua",
-    "object": "https://api.github.com/repos/TheFakeFew/Scripts/contents/ConsolePackages/fractal.lua?ref=main"
+    "object": "https://raw.githubusercontent.com/alklne/lsb/refs/heads/main/example.lua"
   }
 ]
